@@ -27,3 +27,14 @@ The main goals of this project are:
   - Seasonal wear
 
 ---
+#  Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| Google Colab | Development Environment |
+| Pandas | Data Processing |
+| NumPy | Numerical Operations |
+| Scikit-learn | Machine Learning |
+| Matplotlib | Data Visualization |
+| Seaborn | Heatmaps & Visualizations |
